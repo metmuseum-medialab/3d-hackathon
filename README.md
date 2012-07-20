@@ -71,7 +71,8 @@ What worries did we have that didn't exist, what worries did we not account for?
 Conclusion
 ----------
 
-We need more events where we invite people to create in the museum.
+The museum can be a catalyst of change - by having this event people have come back independently
+and scanned and uploaded more objects. We need more events where we invite people to create in the museum.
 
 Resources
 ---------
