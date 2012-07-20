@@ -73,11 +73,14 @@ Conclusion
 
 We need more events where we invite people to create in the museum.
 
-References
-----------
+Resources
+---------
 
  - [we met heads on][]
- - [twitter archive][]
+ - [twitter archive](all-met3d-tweets.csv)
+ - [Pre-Hackathon 123D Catch Testing](pre-hackathon/)
+ - [Dropbox with Artwork](https://www.dropbox.com/sh/6to33w8xiwf536j/2QW_sHHfh_)
+ - [Thingiverse Page](http://www.thingiverse.com/met)
 
 License
 -------
